@@ -2,6 +2,7 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
+
   }
 body {
 font-family: Helvetica;
@@ -28,7 +29,8 @@ p{ width: 90%;
      margin:0px;
      padding: 10px 25px;
      float: right;
-     font-size: 1.20em;}    
+     font-size: 1.20em;}  
+       
 .menu1{
 background-color:blue;}
 .menu2{
